@@ -3,6 +3,22 @@
 
 
 
+<h2>About the project</h2>
+
+<p>Explore the seamless blend of technology and design with our 3D chair configurator. This web application offers a tailored user experience, allowing you to customize and visualize chairs in 3D. Embrace the creativity and simplicity as you engage with our interactive platform, crafted to revolutionize your online shopping journey. Discover the perfect chair that caters to both your aesthetic preferences and comfort needs.
+
+For more details, please visit the [web application](https://chair-3d-configurator-pt1w.vercel.app/).</p>
+
+
+
+👉 Live Demo: <a href='https://chair-3d-configurator-pt1w.vercel.app/'>Live Demo</a>
+
+<h3>Build with:</h3>
+
+» Vite <br>
+» React JS<br>
+» Three JS
+
 
 # React Three Fiber 使用教程 - 3D 产品配置器
 
